@@ -26,5 +26,5 @@ PLATFORMS
 
 DEPENDENCIES
   heroku
-  rmagick
+  rmagick (~> 2.13.1)
   sinatra (= 1.1.2)
