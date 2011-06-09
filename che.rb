@@ -3,7 +3,7 @@ require 'rubygems'
 # require 'isolate/heroku'
 require "bundler/setup"
 require 'sinatra'
-require 'rmagick'
+require 'RMagick'
 
 # set utf-8 for outgoing
 before do
