@@ -13,5 +13,5 @@ PLATFORMS
 
 DEPENDENCIES
   rack
-  rmagick (~> 2.12.2)
+  rmagick (= 2.12.2)
   sinatra
