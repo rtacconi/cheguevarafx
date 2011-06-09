@@ -1,7 +1,7 @@
 require 'rubygems'
-require 'isolate/now'
-require 'isolate/heroku'
-# require "bundler/setup"
+# require 'isolate/now'
+# require 'isolate/heroku'
+require "bundler/setup"
 require 'sinatra'
 require 'rmagick'
 
